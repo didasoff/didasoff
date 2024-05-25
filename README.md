@@ -1,6 +1,6 @@
 # Hey, folks it's [Didar] 👋
 
-![Profile Banner](https://source.unsplash.com/coding/800x200) <!-- Replace with your profile banner URL -->
+![Profile Banner](https://source.unsplash.com/random/800x200?coding) <!-- Replace with your profile banner URL -->
 
 [![GitHub followers](https://img.shields.io/github/followers/didasoff?label=Follow&style=social)](https://github.com/didasoff)
 [![Twitter Follow](https://img.shields.io/twitter/follow/didasoff?style=social)](https://twitter.com/didasoff)
