@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/didasoff?style=social)](https://twitter.com/didasoff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/didasoff)
 
-> **Passionate Developer | Open Source Enthusiast | Tech Blogger**
+> **Passionate Full Stack Developer**
 
 Welcome to my GitHub profile! I am a Full Stack Web Developer specializing in [Frontend Design and Backend Development]. I love working on open-source projects and contributing to the community.
 
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer specializing in [F
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
