@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hey, folks it's [Didar] 👋
 
 ![Profile Banner](https://via.placeholder.com/800x200) <!-- Replace with your profile banner URL -->
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourlinkedinhandle)
+[![GitHub followers](https://img.shields.io/github/followers/didasoff?label=Follow&style=social)](https://github.com/didasoff)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/didasoff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/didasoff)
 
 > **Passionate Developer | Open Source Enthusiast | Tech Blogger**
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a software developer specializing in [Your Sp
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=didasoff&show_icons=true&hide_border=true&theme=radical)
 
 ## 📝 Latest Blog Posts
 
