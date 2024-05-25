@@ -19,22 +19,10 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer specializing in [F
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=didasoff&show_icons=true&hide_border=true&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Master JavaScript in 2024](https://yourblog.com/javascript-2024)
-- [Understanding Python Decorators](https://yourblog.com/python-decorators)
-- [React Performance Optimization Techniques](https://yourblog.com/react-performance)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💼 Featured Projects
 
@@ -48,14 +36,13 @@ Welcome to my GitHub profile! I am a Full Stack Web Developer specializing in [F
 
 ## 🤝 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedinhandle)
-[![Blog](https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge&logo=blogger)](https://yourblog.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/didasoff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/didasoff)
 
 ## 📫 Contact
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [didasoff@gmail.com](mailto:didasoff@gmail.com)
 
 ---
 
-*This profile README was generated with ❤️ by [Your Name](https://github.com/yourusername)*
+*This profile README was generated with ❤️ by [Didar](https://github.com/didasoff)*
