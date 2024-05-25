@@ -1,6 +1,6 @@
 # Hey, folks it's [Didar] 👋
 
-![Profile Banner](https://media.giphy.com/media/l0HlNqRAl0xqePz6M/giphy.gif) <!-- Replace with your profile banner URL -->
+![Profile Banner](https://didasoff.github.io/didasoff/asset/now.gif) <!-- Replace with your profile banner URL -->
 
 [![GitHub followers](https://img.shields.io/github/followers/didasoff?label=Follow&style=social)](https://github.com/didasoff)
 [![Twitter Follow](https://img.shields.io/twitter/follow/didasoff?style=social)](https://twitter.com/didasoff)
